@@ -78,6 +78,16 @@
     font-size: 1.8em;
 }
 
+.reveal .gupy p {
+    color: #fff;
+}
+
+.reveal .gupy img {
+    border: 0;
+    box-shadow: none;
+    background: none;
+}
+
 .reveal .end p {
     font-size: 0.8em;
     color: #BDBDBD;
