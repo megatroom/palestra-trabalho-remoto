@@ -56,7 +56,29 @@
     color: #212121;
 }
 
+.reveal .expectation h1 {
+    font-size: 1.8em;
+}
+
 .reveal .working img {
     border: 0;
     box-shadow: none;
+}
+
+.reveal .rest h1 {
+    color: #212121;
+}
+
+.reveal .beldad img {
+    border: 0;
+    box-shadow: none;
+}
+
+.reveal .end h1 {
+    font-size: 1.8em;
+}
+
+.reveal .end p {
+    font-size: 0.8em;
+    color: #BDBDBD;
 }
