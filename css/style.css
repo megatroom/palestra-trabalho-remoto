@@ -1,0 +1,62 @@
+@font-face {
+    font-family: 'Lato-Light';
+    src:
+        url('fonts/Lato-Light.woff') format('woff'),
+        url('fonts/Lato-Light.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Lato-Regular';
+    src:
+        url('fonts/Lato-Regular.woff') format('woff'),
+        url('fonts/Lato-Regular.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Handlee';
+    src:
+        url('fonts/Handlee-Regular.woff') format('woff'),
+        url('fonts/Handlee-Regular.ttf') format('truetype');
+}
+
+.reveal p {
+    font-family: 'Lato-Regular', sans-serif;
+}
+
+.reveal h1 {
+    font-family: 'Lato-Light', sans-serif;
+    font-weight: 300;
+    font-size: 1.2em;
+    color: #fff;
+}
+
+.reveal .hand {
+    font-family: 'Handlee', cursive;
+    text-transform: none;
+}
+
+.reveal .home {
+    color: #fff;
+}
+
+.reveal .equipamento h1 {
+    font-size: 1.8em;
+}
+
+.reveal .first-step h1 {
+    font-size: 1.8em;
+}
+
+.reveal .isolado h1 {
+    font-size: 1.8em;
+    color: #212121;
+}
+
+.reveal .working h1 {
+    color: #212121;
+}
+
+.reveal .working img {
+    border: 0;
+    box-shadow: none;
+}
